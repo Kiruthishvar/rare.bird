@@ -1,0 +1,42 @@
+body{
+    background-color: #0F044C;
+    
+}
+
+.title{
+    text-align: center;
+    font-family: 'Caveat Brush', cursive;
+    color: #787A91;
+    padding: 10 10;
+}
+.title:hover{
+    color: cyan;
+}
+
+p{
+    color: #EEEEEE;
+    font-family: 'Patrick Hand', cursive;
+    font-size: large;
+    text-align: center;
+ 
+}
+
+.img1{
+    width: 150px;
+    height: 150px;
+}
+
+h3{
+    font-family: 'Caveat Brush', cursive;
+    color: #787A91;
+    text-align: center;
+}
+
+
+
+
+/*
+font-family: 'Caveat Brush', cursive;
+font-family: 'Patrick Hand', cursive;
+
+*/
